@@ -1,1 +1,2 @@
+#Use this request to test that the Azure function for getting a fact is working
 GET http://localhost:7071/api/embeddedtrigger
